@@ -1,0 +1,24 @@
+{
+  "name": "cbb",
+  "version": "1.0.0",
+  "description": "A collaborative black board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhankarsharma00/cbb.git"
+  },
+  "keywords": [
+    "collaborative",
+    "whiteboard",
+    "blackboard"
+  ],
+  "author": "shubhankarsharma00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhankarsharma00/cbb/issues"
+  },
+  "homepage": "https://github.com/shubhankarsharma00/cbb#readme"
+}
