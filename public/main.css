@@ -1,0 +1,48 @@
+.menu-option.col-sm.btn{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size:30px;
+  color:black;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #575b5e;
+
+}
+
+#color-picker{
+  color:black;
+}
+
+#size-p{
+  width: 100%;
+}
+
+.sidenav {
+  width: 70px;
+  position: fixed;
+  height: 400px;
+  z-index: 1;
+  margin: auto 20px;
+  top: 20%;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 8px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #3d4042;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
